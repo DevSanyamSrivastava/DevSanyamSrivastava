@@ -40,7 +40,7 @@ From **React frontends** to **Node.js backends**, I bring ideas to life with mod
 
 ### 📫 How to reach me ...
 - [LinkedIn](https://www.linkedin.com/in/sanyam-srivastava-b8b4342a0/)
-- [Twitter](https://x.com/Iamsanyam10304)
+- [Twitter/X](https://x.com/Iamsanyam10304)
 - [Email](sanyam.fullstackdev@gmail.com)
 
 ---
